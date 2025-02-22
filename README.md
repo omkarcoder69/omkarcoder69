@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is omkar and I'm a noobcoder, from india</p>
+<p align="left">My name is omkar</p>
 
 ###
 
